@@ -1,8 +1,8 @@
 <?php
 /*
 Course Code & Name: DFP50193 - Web Programming
-Full Name: YOUR FULL NAME
-Registration Number: YOUR REGISTRATION NUMBER
+Full Name: WARDAH BINTI HASLAN
+Registration Number: 18DDT23F1099
 Class: DDT7B
 */
 
@@ -11,34 +11,21 @@ session_start();
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
-
     <meta
         name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    >
+        content="width=device-width, initial-scale=1.0">
 
-    <title>New Employee Registration</title>
-
-    <link rel="stylesheet" href="style.css">
-
+        <title>New Employee Registration</title>
+        <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
 <div class="container">
-
     <div class="page-header">
-
         <div>
-
             <h1>New Employee Registration</h1>
-
             <p>Enter employee information below.</p>
-
         </div>
 
         <a href="index.php" class="btn btn-secondary">

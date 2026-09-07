@@ -1,8 +1,8 @@
 <?php
 /*
 Course Code & Name: DFP50193 - Web Programming
-Full Name: YOUR FULL NAME
-Registration Number: YOUR REGISTRATION NUMBER
+Full Name: WARDAH BINTI HASLAN
+Registration Number: 18DDT23F1099
 Class: DDT7B
 */
 
